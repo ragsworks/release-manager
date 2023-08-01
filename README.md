@@ -4,7 +4,7 @@
 
 <img height="196" src="https://raw.githubusercontent.com/Ragdata/media/master/project/ragsworks/logo/ragsworks-256.png" alt="Ragdata" />
 
-[RagsWorks Release Manager v-1.0.0](https://github.com/ragsworks/release-manager/releases/tag/v-1.0.0)
+[RagsWorks Release Manager v-0.1.0](https://github.com/ragsworks/release-manager/releases/tag/v-0.1.0)
 
 </h1>
 

@@ -29,7 +29,7 @@
 
 #### _Elapsed Project Time_
 
-[![wakatime](https://wakatime.com/badge/user/7e04d9d4-3a44-495e-b622-69fdbafd036c/project/c73132bd-370e-421e-a2e5-b18ef67765cc.svg?style=for-the-badge)](https://wakatime.com/badge/user/7e04d9d4-3a44-495e-b622-69fdbafd036c/project/c73132bd-370e-421e-a2e5-b18ef67765cc)
+[![wakatime](https://wakatime.com/badge/github/ragsworks/release-manager.svg?style=for-the-badge)](https://wakatime.com/badge/github/ragsworks/release-manager)
 
 </div>
 

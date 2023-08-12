@@ -1,0 +1,21 @@
+# ==================================================================
+# RagsWorks Release Manager Action
+# ==================================================================
+name: "release-manager"
+author: Ragdata
+description: Releases a package, writes changelog, and bumps versions in specified files
+
+inputs:
+    cli-args:
+        description: "Generic Command-Line Arguments"
+        required: false
+
+branding:
+    icon: shield
+    color: red
+
+runs:
+    using: "docker"
+    image: "docker/Dockerfile"
+    args:
+        - ${{ inputs.cli-args }}

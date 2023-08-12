@@ -1,8 +1,8 @@
 <h1 align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Ragdata/media/master/banner/wip-banner.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/Ragdata/media/master/banner/pre-release.svg" />
 
-<img height="196" src="https://raw.githubusercontent.com/Ragdata/media/master/project/ragsworks/logo/ragsworks-256.png" alt="Ragdata" />
+<img height="196" src="https://raw.githubusercontent.com/Ragdata/media/master/project/ragsworks/logo/RagsWorks-256.png" alt="Ragdata" />
 
 [RagsWorks Release Manager v-0.1.0](https://github.com/ragsworks/release-manager/releases/tag/v-0.1.0)
 
@@ -21,7 +21,7 @@
 <br />
 
 <h3 align="center">
-<em>Reusable GitHub Actions &amp; Workflows for Linting</em></h3>
+<em>Reusable GitHub Action for Managing Releases</em></h3>
 
 <div align="center">
 
@@ -86,18 +86,6 @@ If you're contributing code to the project, you'll want 🔴
 
 ## ❓ [What's Included?](#toc)
 
-This project contains the following **Reusable GitHub Actions and Workflows**
-
-LEGEND:
-
- - ☑️ = WIP
- - ✅ = AVAILABLE NOW
-
-#### [Reusable Actions](#toc):
-
-
-#### [Reusable Workflows](#toc):
-
 
 [`^ Top`](#toc)
 
@@ -118,23 +106,22 @@ LEGEND:
 
 ### Project Resources
 
-- ✅ [Issues Register](https://github.com/ragsworks/release-manager/issues)
-- ✅ [Project Site](https://ragsworks.github.io/release-manager)
+- [Issues Register](https://github.com/ragsworks/release-manager/issues)
+- [Project Site](https://ragsworks.github.io/release-manager)
 
-<details><summary><h3>Community Resources</h3></summary>
+### Community Resources
 
 - [**The RedEyed Community Discord Server**](https://discord.gg/s6gZZUc67y)
 
 
 - [Community Support Document](https://github.com/ragsworks/.github/blob/master/.github/SUPPORT.md)
-- [Community Code of Conduct](https://github.com/ragsworks/.github/blob/master/.github/CODE_OF_CONDUCT.md)
 - [Community Standards](https://github.com/ragsworks/release-manager/community)
+- [Community Code of Conduct](https://github.com/ragsworks/.github/blob/master/.github/CODE_OF_CONDUCT.md)
+- [Community Governance Policy](https://github.com/ragsworks/.github/blob/master/.github/GOVERNANCE.md)
 - [Security Policy](https://github.com/ragsworks/release-manager/security/policy)
 	- [Security Overview](https://github.com/ragsworks/release-manager/security)
 	- [Security Advisories](https://github.com/ragsworks/release-manager/security/advisories)
 	- [Dependabot Alerts](https://github.com/ragsworks/release-manager/security/dependabot)
-
-</details>
 
 [`^ Top`](#toc)
 
@@ -173,11 +160,11 @@ LEGEND:
 
 ### [Join me & the RedEyed Community!](https://discord.gg/s6gZZUc67y)
 
-<a href="https://twitter.com/intent/follow?screen_name=RagdataAU" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-<a href="https://www.reddit.com/r/RedeyedSoftware/" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white" /></a>
-<a href="https://dev.to/ragdata" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-373737?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-<a href="https://ragdata.substack.com/" target="_blank"><img alt="SubStack" src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=Substack&logoColor=white" /></a>
-<a href="https://www.facebook.com/RedEyedSoftware/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+<a href="https://www.facebook.com/RedeyedAU/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+<a href="https://redeyedau.substack.com/" target="_blank"><img alt="SubStack" src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=Substack&logoColor=white" /></a>
+<a href="https://dev.to/redeyed-au" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-373737?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+<a href="https://www.reddit.com/r/RedeyedAU/" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white" /></a>
+<a href="https://twitter.com/intent/follow?screen_name=RedeyedAU" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
 
 [![Discord](https://img.shields.io/discord/1067204348251230298?labelColor=5865F2&label=RedEyed%20Software%20&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/s6gZZUc67y)
 
@@ -199,7 +186,7 @@ If you discover any issue regarding the security of this project, please disclos
 [![All Contributors](https://img.shields.io/github/all-contributors/ragsworks/release-manager?color=ee8449&style=for-the-badge)](CONTRIBUTORS.md)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-If you'd like to make a contribution, then please see the [**Bash Bits Contributor's Guide**][contributing]
+If you'd like to make a contribution, then please see the [**RagsWorks Contributor's Guide**][contributing]
 
 It's not just contributions of code that I'm looking for.  If you have any ideas or suggestions about how this project may be improved, don't hesitate to [open an issue][issues] and let me know!  Contributions of ALL kinds will be recognised here if they are made part of this project - thanks to the [All-Contributors][all-contributors] bot.
 

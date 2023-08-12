@@ -1,0 +1,27 @@
+FROM ubuntu:latest
+
+LABEL "com.github.actions.name" = "Release Manager"
+LABEL "com.github.actions.description" = "Action which creates a GitHub release from the nominated branch, generate changelog, and bump specified files"
+
+LABEL "com.github.actions.icon" = "shield"
+LABEL "com.github.actions.color" = "red"
+
+LABEL "repository" = "https://github.com/ragsworks/release-manager"
+LABEL "homepage" = "https://github.com/ragsworks/release-manager"
+
+LABEL "maintainer" = "Ragdata<ragdata@ragdata.dev>"
+
+RUN apt-get update && apt-get install -y --no-install-recommends \
+        ca-certificates \
+        curl \
+        unzip \
+        git \
+        bash \
+        bc \
+
+RUN apt-get clean -y
+RUN rm -rf /var/lib/apt/lists/*
+
+COPY entrypoint.sh /entrypoint.sh
+
+ENTRYPOINT ["/entrypoint.sh"]
